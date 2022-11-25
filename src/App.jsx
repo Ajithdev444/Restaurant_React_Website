@@ -16,8 +16,6 @@ function App() {
     <Gallery />
     <FindUs />
     <Footer />
-   
-    
     </div>
   )
 }
