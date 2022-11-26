@@ -82,5 +82,10 @@
     .app__specialMenu__menu__img {
         width: 100%;
     }
-    
+}
+
+@media screen and (max-width: 400px) {
+    .app__specialMenu__menu__img img {
+        height: 500px ;
+    }
 }

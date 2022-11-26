@@ -27,9 +27,10 @@ const AboutUs = () => (
       <div className='app__aboutus-content_history'>
         <h1 className='headtext__cormorant'>Our History</h1>
         <img src={images.spoon} alt='about_spoon' className='spoon__'/>
-        <p className='p__opensans'>we are one of the best resturants in kochi
-        since 1940's we provide variety of food items we have to ten more branches 
-        at abroad. we have five star facilities. The resturants ownered by AJITHDEV C </p>
+        <p className='p__opensans'>Our journey starts from 1940's from Europe and
+        we expand our branches through out the world. we started our journey 
+        in india at 1950's and we have 10 more branches in india
+       The resturants founded and ownered by Dev's group of company </p>
         <button type='button' className='custom__button'>Know More</button>
       </div>
 

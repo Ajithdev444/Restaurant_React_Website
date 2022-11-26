@@ -97,10 +97,16 @@
     .app__footer {
         padding: 0 0 2rem 0;
     }
+
+    .app__footer-links_contact h1 {
+        margin-top: -5rem;
+    }
 }
 
 @media screen and (max-width: 350px) {
     .app__footer-links_logo img:first-child {
         width: 80%;
     }
+
+   
 }

@@ -142,3 +142,9 @@
         height: 320px;
     }
 }
+
+@media screen and (max-width: 400px) {
+    .app__gallery-images {
+        margin-bottom: 1rem;
+    }
+}
